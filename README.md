@@ -1,5 +1,5 @@
 ## Preview 预览版
-# L’Study 是一款直接访问您设置的网站的安卓APP 
+# L’Study 是一款直接访问https://a.loswkl.xyz/网站的安卓APP 
 
   当前源码已经开源，欢迎下载和使用，源码并无过多的核心代码！
 
